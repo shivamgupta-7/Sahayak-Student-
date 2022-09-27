@@ -18,9 +18,13 @@ on-campus events, giving international students a place to interact with new peo
 people, and have fun, making their international student experience easier.
 
 ## Final Product 
+
+
 https://user-images.githubusercontent.com/47007121/192607336-d37edbee-579e-4092-80a2-5116151ccc21.mp4
 
 ##Initial Product
+
+
 https://user-images.githubusercontent.com/47007121/192607632-27697247-bb9a-4583-94cb-e43a2c58398e.mp4
 
 
